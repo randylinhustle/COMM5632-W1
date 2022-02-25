@@ -136,7 +136,7 @@ p.hai {
 	line-height: 1.8;
 	text-align: left;
 	color: #000000;
-	margin-top: -6rem;
+	margin-top: -3rem;
 	margin-bottom: -3rem;
 }
 
@@ -152,7 +152,7 @@ p.lin {
 	line-height: 1.8;
 	text-align: left;
 	color: #000000;
-	margin-top: -3rem;
+	/* margin-top: -3rem; */
 	margin-bottom: -3rem;
 }
 
