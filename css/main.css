@@ -779,6 +779,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 	text-transform: uppercase; 
 }
+
+.section-intro h2 {
+	font-family: "merriweather-bold", serif;
+	font-size: 1.5rem;
+	color: #000000;
+	line-height: 1.25;
+	margin-bottom: 1.2rem;
+}
+
 .section-intro h5 {
 	color: rgba(56, 66, 78, 0.5);
 	font-size: 1.6rem;
